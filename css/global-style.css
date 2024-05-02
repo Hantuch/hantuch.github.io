@@ -47,6 +47,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: green;
+}
+
+
 .header-nav ul {
     list-style-type: none;
     padding: 0  ;
@@ -59,11 +64,6 @@ a {
 .header-nav a {
     text-align: center;
     padding: 8px;    
-}
-
-.header-nav a:hover{
-    color: green;
-    
 }
 
 .footer-title {
